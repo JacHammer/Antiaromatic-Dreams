@@ -1,0 +1,5 @@
+# PyCharm cache
+.idea/
+
+# notepad++ backup file
+*.bak
